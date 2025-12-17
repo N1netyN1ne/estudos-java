@@ -1,8 +1,8 @@
-package semana4;
+package semana4.banco;
 
 public class ContaBancaria {
-    ContaBancaria(){}
-    ContaBancaria(String titular){
+    public ContaBancaria(){}
+    public ContaBancaria(String titular){
         this.titular = titular;
     }
     private String titular;

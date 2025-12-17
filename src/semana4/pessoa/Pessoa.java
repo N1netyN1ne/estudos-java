@@ -1,8 +1,8 @@
-package semana4;
+package semana4.pessoa;
 
 public class Pessoa {
     Pessoa(){}
-    Pessoa(String nome, int idade){
+    public Pessoa(String nome, int idade){
         this.nome = nome;
         if(idade > 0){
             this.idade = idade;

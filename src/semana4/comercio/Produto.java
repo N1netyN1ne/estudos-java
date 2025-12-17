@@ -1,8 +1,8 @@
-package semana4;
+package semana4.comercio;
 
 public class Produto {
-    Produto(){}
-    Produto(String nome, double preco, int quantidadeEstoque){
+    public Produto(){}
+    public Produto(String nome, double preco, int quantidadeEstoque){
         this.nome = nome;
         this.preco = preco;
         this.quantidadeEstoque = quantidadeEstoque;

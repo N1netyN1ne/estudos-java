@@ -1,5 +1,12 @@
 package semana4;
 
+import semana4.banco.ContaBancaria;
+import semana4.comercio.CarrinhoDeCompra;
+import semana4.comercio.Produto;
+import semana4.faculdade.Aluno;
+import semana4.faculdade.Curso;
+import semana4.pessoa.Pessoa;
+
 public class Semana4 {
     public  static  void main(String[] args){
         System.out.println();
@@ -73,17 +80,5 @@ public class Semana4 {
 
         carrinho1.listarProdutos();
         System.out.println("Total da compra: R$"+carrinho1.calcularTotal());
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

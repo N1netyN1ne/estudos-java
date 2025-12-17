@@ -1,11 +1,12 @@
-package semana4;
+package semana4.faculdade;
 
-import java.lang.reflect.Array;
+import semana4.faculdade.Aluno;
+
 import java.util.ArrayList;
 
 public class Curso {
-    Curso(){}
-    Curso(String nome){
+    public Curso(){}
+    public Curso(String nome){
         this.nome = nome;
     }
 

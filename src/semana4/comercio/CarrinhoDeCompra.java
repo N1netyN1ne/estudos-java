@@ -1,9 +1,9 @@
-package semana4;
+package semana4.comercio;
 
 import java.util.ArrayList;
 
 public class CarrinhoDeCompra {
-    CarrinhoDeCompra(){}
+    public CarrinhoDeCompra(){}
     private ArrayList<Produto> ListaDeProdutos = new ArrayList<Produto>();
 
     public ArrayList<Produto> getListaDeProdutos() {
