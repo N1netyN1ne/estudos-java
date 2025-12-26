@@ -1,0 +1,7 @@
+package semana6.calculadora;
+
+public class Calculadora {
+    public static int dividir(int numerador, int denominador){
+            return numerador / denominador;
+    }
+}

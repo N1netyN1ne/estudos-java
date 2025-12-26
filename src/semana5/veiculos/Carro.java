@@ -1,4 +1,4 @@
-package Semana5.veiculos;
+package semana5.veiculos;
 
 public class Carro extends Veiculo {
     public Carro(String marca,String modelo, int ano, int portas){

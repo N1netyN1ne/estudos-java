@@ -1,4 +1,4 @@
-package Semana5.veiculos;
+package semana5.veiculos;
 
 public class Veiculo {
     public Veiculo(){}

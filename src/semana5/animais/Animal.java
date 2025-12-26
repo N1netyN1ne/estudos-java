@@ -1,4 +1,6 @@
-package Semana5.animais;
+package semana5.animais;
+
+import java.util.Objects;
 
 public abstract class Animal {
     public Animal(){}

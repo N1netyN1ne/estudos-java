@@ -1,6 +1,4 @@
-package Semana5.empresa;
-
-import Semana5.empresa.Funcionario;
+package semana5.empresa;
 
 public class Gerente extends Funcionario {
     public Gerente(){}

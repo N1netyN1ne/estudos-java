@@ -1,4 +1,4 @@
-package Semana5.animais;
+package semana5.animais;
 
 public class Cachorro extends Animal{
     public Cachorro(){}

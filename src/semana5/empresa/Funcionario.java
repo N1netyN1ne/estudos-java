@@ -1,4 +1,4 @@
-package Semana5.empresa;
+package semana5.empresa;
 
 public abstract class Funcionario {
     Funcionario(){}

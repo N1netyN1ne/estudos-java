@@ -1,15 +1,15 @@
-package Semana5;
+package semana5;
 
-import Semana5.animais.Animal;
-import Semana5.animais.Cachorro;
-import Semana5.animais.Gato;
-import Semana5.empresa.Desenvolvedor;
-import Semana5.empresa.FolhaDePagamento;
-import Semana5.empresa.Funcionario;
-import Semana5.empresa.Gerente;
-import Semana5.veiculos.Carro;
-import Semana5.veiculos.Moto;
-import Semana5.veiculos.Veiculo;
+import semana5.animais.Animal;
+import semana5.animais.Cachorro;
+import semana5.animais.Gato;
+import semana5.empresa.Desenvolvedor;
+import semana5.empresa.FolhaDePagamento;
+import semana5.empresa.Funcionario;
+import semana5.empresa.Gerente;
+import semana5.veiculos.Carro;
+import semana5.veiculos.Moto;
+import semana5.veiculos.Veiculo;
 
 import java.util.ArrayList;
 
